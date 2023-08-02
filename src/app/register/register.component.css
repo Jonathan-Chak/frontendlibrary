@@ -1,0 +1,10 @@
+#profile-img{
+    height: 300px;
+    width: 300px;
+    float:left;
+}
+
+.form-group{
+    width: 500px;
+    float: right;
+}

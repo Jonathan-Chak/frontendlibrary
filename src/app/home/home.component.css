@@ -1,0 +1,23 @@
+
+#logo{
+    width: 200px;
+}
+.topbooks img{
+    margin: 10px;
+    height: 120px;
+}
+.topbooks{
+    background-color: bisque;
+    font-size: small;
+    width: 100%;
+}
+.mission{
+    font-size: small;
+}
+
+td{
+    padding-left: 200px;
+}
+.highlight{
+    font-weight: bolder;
+}
